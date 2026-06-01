@@ -6,9 +6,24 @@
 
 ## 🤖 Zyro.exe
 
-```python
 while True:
     drink()
     code()
     crash()
     git_push_force()
+
+**Discord Developer | Wodka-Engine | Chaos-Modus an**
+
+---
+
+## 🔗 Links
+
+💬 **Community Server** → https://discord.gg/6FcH2v9SDP
+
+👑 **Vain (Co Owner)** → https://discord.gg/vainservices
+
+👻 **Haunt** → https://haunt.gg/zyro
+
+---
+
+⚠️ *Zyro.exe --chaos --force*
