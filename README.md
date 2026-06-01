@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=9B4DFF&center=true&vCenter=true&width=600&lines=Zyro.exe;sudo+rm+-rf+brain;3+Wodka+2+Energy+0+Schlaf;git+push+--force" alt="Zyro Typing"/>
+</div>
 
-<!--
-**Zyro-exe/Zyro-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 Zyro.exe
 
-Here are some ideas to get you started:
+while True:
+    drink()
+    code()
+    crash()
+    git_push_force()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Discord Developer | Wodka-Engine | Chaos-Modus an**
+
+---
+
+## 🔗 Links
+
+💬 **Community Server** → https://discord.gg/6FcH2v9SDP
+
+👑 **Vain (Co Owner)** → https://discord.gg/vainservices
+
+👻 **Haunt** → https://haunt.gg/zyro
+
+---
+
+⚠️ *Zyro.exe --chaos --force*
